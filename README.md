@@ -16,7 +16,7 @@
         }
      }  
      
-> Web SQL Database
+> Web SQL Database  
 Web SQL Database是一个已经废弃的规范，但是鉴于除了IE和Firefox，其他浏览器都已经实现了Web SQL Database，并且它还具有一些HTML5 Storage所不具有的特性，所以还是值得了解一下的。
 IndexedDB
 相比其他两个规范，目前只有Firefox实现了IndexedDB（顺便提一下，Mozilla表示它们永远不会去实现Web SQL Database），不过Google已经表示正在考虑在Chrome中加入IndexDB支持。
